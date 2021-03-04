@@ -5,7 +5,7 @@ class DbConnection
     private $host = 'localhost';
     private $username = 'root';
     private $password = '';
-    private $database = 'registration';
+    private $database = 'subscriptions_db';
 
     protected $connection;
 
